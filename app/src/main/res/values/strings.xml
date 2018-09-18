@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">People list</string>
+    <string name="name">First name:   </string>
+    <string name="nameField"></string>
+    <string name="lastName">Last name:   </string>
+    <string name="lastNameField"></string>
+    <string name="clear">    CLEAR    </string>
+    <string name="add">    ADD    </string>
+</resources>
